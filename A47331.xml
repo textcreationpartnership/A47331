@@ -1,0 +1,375 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The judgment of private discretion in matters of religion defended in a sermon on I Thessal. v. 21, preached at St. Pauls Covent-Garden, Feb. xxiii, 1686 [ie. 1687] / by Richard Kidder.</title>
+            <author>Kidder, Richard, 1633-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47331</idno>
+            <idno type="STC">Wing K406</idno>
+            <idno type="STC">ESTC R16673</idno>
+            <idno type="EEBO-CITATION">11858493</idno>
+            <idno type="OCLC">ocm 11858493</idno>
+            <idno type="VID">49975</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49975)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 499:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The judgment of private discretion in matters of religion defended in a sermon on I Thessal. v. 21, preached at St. Pauls Covent-Garden, Feb. xxiii, 1686 [ie. 1687] / by Richard Kidder.</title>
+                  <author>Kidder, Richard, 1633-1703.</author>
+               </titleStmt>
+               <extent>[8], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brabazon Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bristol Public Library, Bristol, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Thessalonians, 1st, V, 21 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49975:1" rendition="simple:additions"/>
+            <p>The Judgment of Private Diſcretion IN <hi>Matters of Religion</hi> DEFENDED; IN A SERMON On 1 <hi>Theſſal.</hi> V. 21. Preached at St. <hi>Pauls Covent-Garden, Feb.</hi> XXIII. 1686.</p>
+            <p>By <hi>RICHARD KIDDER.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>IMPRIMATUR,</p>
+                        <closer>
+                           <dateline>
+                              <date>March 19 1686.</date>
+                           </dateline>
+                           <signed>Guil. Needham.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Brabazon Aylmer,</hi> at the Three Pigeons againſt the <hi>Royal-Exchange</hi> in <hi>Cornhill.</hi> MDCLXXXVII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:49975:2"/>
+            <pb facs="tcp:49975:2"/>
+            <head>TO THE READER.</head>
+            <p>NOthing concerns us ſo much as the Salvation of our Souls, and, in order to that, the choice of our Religion. Here it well becomes us to uſe great care, and ſtrictly to examine things. This we doe in matters of leſs moment; when we purchaſe, and when we trade; when we are concerned for our Health, our Eſtates, and Properties. The H. Scriptures frequently put us upon this care; and the man who is diligent here<g ref="char:EOLhyphen"/>in will be able to give the beſt account of himſelf hereaf<g ref="char:EOLhyphen"/>ter, and find the greateſt ſatisfaction here: Such a man will have ſteady Principles, and have this comfort, that 'tis not by mere <hi>chance,</hi> but <hi>choice,</hi> that he is what he is. This is the way to be certain that we are in the right, which no man can be without underſtanding. We may be <hi>confident</hi> indeed, but can never be <hi>certain,</hi> without knowledge and diligent examination of things.</p>
+            <p>The Church of <hi>England</hi> does not require a blind Obedi<g ref="char:EOLhyphen"/>ence; She is content Her Doctrines ſhould be examined by the cleareſt light. Simplicity and Truth ſeek not corners. The H. Scriptures are allowed to the people, and no means of inſtruction wanting among us. She does not indeed vaunt of what ſhe hath not: She pretends not to any ab<g ref="char:EOLhyphen"/>ſolute Infallibility. She is modeſt, and contains Herſelf within due bounds, and with-holds not from Her Children either the liberty or means of examining Her Doctrines.</p>
+            <pb facs="tcp:49975:3"/>
+            <p>But ſo it is, that She ſuffers very greatly in the mean time: Becauſe She claims not <hi>Infallibility,</hi> there are thoſe who would infer that there is no <hi>certainty</hi> where the other is not. But this is a wild and extravagant concluſion; for the <hi>certaint<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of a <hi>Thing</hi> does not depend upon the <hi>infallibility</hi> of a <hi>Perſon,</hi> but ariſeth from the <hi>evidence</hi> or clear grounds which evict its truth. It does not follow that becauſe I am <hi>fallible</hi> that I can be certain of nothing; or that becauſe I am liable to err, I can never be ſure I am in the right; or that becauſe I am ignorant of ſome things, therefore I know nothing at all.</p>
+            <p>And yet we find it frequently pretended that <hi>Proteſtants</hi> want certainty, and that they build upon an unſure founda<g ref="char:EOLhyphen"/>tion; and <hi>that</hi> becauſe they claim not that infallibility which others pretend to. The beſt way to ſhew the uncer<g ref="char:EOLhyphen"/>tainty of our Faith would be to prove that we build on falſe grounds; but thoſe men who are moſt forward to traduce us, have no great inclination to conſider with due application the merits of our cauſe. Inſtead of this, they would have us reſt upon the Authority of their Church, as if the way to be more certain than we are, were for us to ſee with other mens eyes, and not with our own.</p>
+            <p>A man might juſtly expect from theſe men, who thus declaim againſt Proteſtants, that when they attempt to ſhew the uncertainty of <hi>their Faith,</hi> they ſhould at leaſt prove the certainty of <hi>their own.</hi> 'Twill be worth our while to ſee if they have any better grounds for their Faith, or ſafer way to Salvation, than we have, who exa<g ref="char:EOLhyphen"/>mine our Doctrines by the H. Scriptures. The beſt way to know this,<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Examen du livre qui porte pour <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tre <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ngez <gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>tunes <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> will be to compare them one with another.</p>
+            <p>They ſay that the deſinition of the Church is our Rule, where, before we can be certain, we muſt be ſure of two things, <hi>[1.]</hi> That there is an infallible Church. <hi>[2.]</hi> That their Church is that infallible Church. We on the other
+<pb facs="tcp:49975:3"/>hand make the H. Scriptures our Rule, and believe what they teach; and here are two things alſo of which we muſt be ſure. <hi>[1.]</hi> That what God ſays is true. <hi>[2.]</hi> That what the Scriptures reveal is from God. This is the true ſtate of the queſtion between us. And now let any man conſider impartially who builds upon the ſureſt grounds, They who build upon the Veracity of God, and upon the H. Scriptures, which are by all Chriſtians owned to be the declaration of his will; or they who build upon a pretence that there is an infallible Church, and that their own is it. The Princi<g ref="char:EOLhyphen"/>ples on which they build are neither ſo evident in them<g ref="char:EOLhyphen"/>ſelves, nor yet ſo generally owned as ours; for theirs are not ſo much as owned by the generality of Chriſtians, where<g ref="char:EOLhyphen"/>as ours cannot be denied by themſelves. And 'twill appear that our way is as <hi>Eaſie,</hi> and more <hi>Safe</hi> than theirs.</p>
+            <p>'Tis as <hi>eaſie</hi> to know what the Scripture teaches as what their Church does: God intended it for the uſe of the peo<g ref="char:EOLhyphen"/>ple, and ſurely then he fitted it for their uſe. And we have great reaſon to believe that God can deliver his mind as plainly as a Council, &amp; that he did it in all things neceſſary to the guidance &amp; ſalvation of the people for whom he wrot it. This is ſo very evident, that ſome of the Church of <hi>Rome</hi> have owned it.<note place="margin">
+                  <hi>Pref. part</hi> 1. <hi>pag</hi> 7. Celuy qui ne cherche dans l'E<g ref="char:EOLhyphen"/>criture, que ſon ſa<g ref="char:EOLhyphen"/>lut l'y trouvera.</note> The Authors of the <hi>Preface</hi> to the Teſtament printed at <hi>Mons</hi> declare, <hi>That he who in the Scripture ſeeks nothing but his own Salvation ſhall find it there.</hi> And preſently afterwards, ſpeaking of ſome obſcurity in the Scripture, they add theſe words: <hi>But that which may comfort us in this obſcurity is this, that, according to St.</hi> Auguſtin, <hi>the H. Scripture does propoſe to us after an eaſie and intelligible manner all that is neceſſary for the conduct of our life; That it does explain and clear it ſelf, in expreſſing clearly in ſome places that which in others it expreſſed obſcurely.</hi>
+            </p>
+            <p>For the Doctrine of the Church, 'tis not very eaſie to
+<pb facs="tcp:49975:4"/>know it. We find at this day ſeveral repreſentations of it from thoſe who are all of the Communion of the <hi>Roman</hi> Church. How ſhall the ſimple and unlearned man know what this Doctrine is? His Curate may not be rely'd up<g ref="char:EOLhyphen"/>on, nor can he be ſecure from the judgment of any private Doctor. What muſt he doe? How ſhall he diſtinguiſh be<g ref="char:EOLhyphen"/>tween the Doctrine of private Doctors, and that of the Church? Muſt he read the ancient Canons, and Councils, and Fathers? He'll find this an harder task than the ſearching of the Scriptures. As our way is as <hi>eaſie,</hi> ſo' tis</p>
+            <p>More <hi>ſafe</hi> than theirs. There is danger indeed leſt our laſts and worldly intereſts ſhould put a byaſs upon us, and turn us aſide from the Truth, but this lies on both ſides: But then on our ſide the great danger is this, leſt we mi<g ref="char:EOLhyphen"/>ſtake the ſenſe of the H. Scripture; here's the great fear. But then on the other ſide, they who govern themſelves by the authority of the Church are under a double dan<g ref="char:EOLhyphen"/>ger; <hi>[1.]</hi> Leſt they take that Church for infallible which is not. <hi>[2.]</hi> Leſt they take that for the Doctrine of this Church which indeed is not her Doctrine. We are ſure that the Scriptures are God's Word, and were written for our inſtruction, and that upon our diligent ſearch into them, and humble addreſſes to God, we ſhall <hi>find Salvation, if we ſeek nothing more.</hi>
+            </p>
+            <p>For the infallibility of the Church, which is ſo much talked of, it muſt be made good before I can be obliged to receive it; and when 'tis, I ſhall readily ſubmit to it. But in the mean time I find great difficulties attending up<g ref="char:EOLhyphen"/>on that Doctrine, both as to the Subject of that Infallibi<g ref="char:EOLhyphen"/>lity, as to the Thing it ſelf, and as to the Grounds on which it ſtands.</p>
+            <p>As to the <hi>Subject</hi> of it, I find our Adverſaries are not as yet agreed where it is to be placed, and therefore I know not where to ſind it; and then 'tis all one as if
+<pb facs="tcp:49975:4"/>there were no ſuch thing at all. That which I cannot come at will ſtand me in no ſtead. Let our Adverſaries tell us in whom 'tis lodged: Is it in the Biſhop of <hi>Rome?</hi> Or is it in Him and the Conclave? Or in Him and a General Council? Or is it in a Council without Him? If in a Council, muſt that be oecumenical only; or does it reſide in National and Provincial alſo?</p>
+            <p>As to the <hi>Infallibility</hi> it ſelf, I would be informed how far it reacheth. Does it extend to queſtions of <hi>Fact</hi> as well as of <hi>Law</hi> and <hi>Right?</hi> Does it take in not only <hi>neceſ<g ref="char:EOLhyphen"/>ſary</hi> things, but alſo things that are of <hi>leſs moment?</hi> Is this Church infallible not only in her <hi>Concluſions,</hi> but in the <hi>premiſſes</hi> too from, whence thoſe Concluſions are drawn? Does this Infallibility require that the queſtion ſhould be examined before the matter be decided or not? Is it a <hi>natural gift,</hi> or is it by <hi>Grace?</hi> By immediate Revelation, or not? Let us ſuppoſe it in a General Coun<g ref="char:EOLhyphen"/>cil; yet in this caſe I would know, whether or not this Council will be infallible in their deciſions however things are carried? Are there no Rules the Council is to go by? Muſt not queſtions be ſtrictly examined, and the ſuffrages be free, and the Council be Canonically indicted? Or will the Council be infallible tho' it obſerve none of theſe rules and forms? Let them tell us what theſe forms are that are neceſſary, and let them after this make it appear that they have been duly obſerved; or let them ſay if any form or rule be needfull, or not. How comes it to paſs that the Divines in a General Council have differed from one another? How comes it that one Council hath: de<g ref="char:EOLhyphen"/>termined againſt another? Why are ſome of theſe Coun<g ref="char:EOLhyphen"/>cils in part received, and in part rejected? What ſure marks have we to diſtinguiſh one from another? What aſſurance can they give that the major part is always the better, and have uſed the greateſt care?</p>
+            <pb facs="tcp:49975:5"/>
+            <p>For the <hi>Grounds</hi> and proofs of this Infallibility I de<g ref="char:EOLhyphen"/>ſire to ſee thoſe that are ſolid and weighty, ſuch as are evident and clear, and will render me infallibly certain of the thing. This had need be well proved, it not being ſelf-evident. If I muſt believe the Church in all other things, yet 'tis fit <hi>this</hi> ſhould be ſtrongly proved. Theſe proofs muſt be taken from the H. Scriptures, and not from the authority of the Church which lays claim to it. And then they muſt be ſuch proofs as determine it to that very Church, and as do evidently prove that ſuch an Infallibi<g ref="char:EOLhyphen"/>lity does belong to it as ſhe pretends to.</p>
+            <p>Till theſe things are cleared, I know not any better advice I can give the Reader, than to continue ſtedfaſt in the Communion of our Church, as the ſafeſt way to Hea<g ref="char:EOLhyphen"/>ven. For tho' we ought not to want charity for others, yet we are bound in conſcience (and as we will anſwer it at the great Day) to chooſe wiſely, and to be conſtant to ſuch a choice. There are ſome things controverted between <g ref="char:V">Ʋ</g>s and the Church of <hi>Rome</hi> wherein we are manifeſtly of the ſafer ſide: To <hi>worſhip no Image</hi> hath no danger, nor is there any hazard in <hi>receiving the Sacrament in both kinds.</hi> 'Twere eaſie to give other inſtances in which we are on the ſafer ſide.</p>
+            <p>In the mean time, let it be our care to live up to our Principles, and we ſhall not miſcarry. The beſt Church is no ſecurity to the careleſs and the profane. We ſhall know the Will of God beſt, when we doe it with great care. 'Tis not enough that <hi>we prove all things,</hi> we muſt alſo <hi>hold faſt that which is good.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:49975:5"/>
+            <head>A SERMON PREACHED At Saint <hi>Paul's Covent-Garden,</hi> Feb. 23. 1686.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 THESSAL. V. 21.</hi>
+                  </bibl>
+                  <p>Prove all things, hold faſt that which is good.</p>
+               </q>
+            </epigraph>
+            <p>IN theſe words the Apoſtle commends to thoſe, to whom he writes, two things, the one in order to the other.</p>
+            <list>
+               <item>Firſt, <hi>That they ſhould prove all things.</hi>
+               </item>
+               <item>Secondly, <hi>That they ſhould hold faſt that which is good.</hi>
+               </item>
+            </list>
+            <pb n="2" facs="tcp:49975:6"/>
+            <p>I begin with the firſt, <hi>Prove all things.</hi>
+            </p>
+            <p>And here I think my ſelf obliged before I proceed any farther to conſider [1.] The Perſons to whom the advice is given; And [2.] The importance of the advice it ſelf.</p>
+            <p n="1">
+               <note place="margin">
+                  <hi>Ch.</hi> 1. <hi>v.</hi> 1.</note>1. The Perſons to whom this advice is given; viz. <hi>to the Church of the Theſſ aloni<g ref="char:EOLhyphen"/>ans.</hi> Not to the Biſhops and Governors of the Church only, but to the People alſo. This appears from the words (v. 12.) <hi>We beſeech you brethren to know them which labour among you, and are over you in the Lord and admoniſh you.</hi> It cannot be ſuppoſed that St. <hi>Paul</hi> does here direct himſelf to the head and not unto the members. He does generally addreſs himſelf to the Church in the moſt diffuſive ſenſe of that word; <hi>E. G. To all that be in Rome,</hi>
+               <note place="margin">Rom. 1.7.</note> 
+               <hi>beloved of God, called to be Saints.</hi>
+               <note place="margin">1 Cor. 1.2.</note> And, <hi>
+                  <g ref="char:V">Ʋ</g>nto the Church of God which is at Corinth,</hi>
+               <note place="margin">2 Cor. 1.1.</note> 
+               <hi>to them that are ſanctified in Chriſt Jeſus called to be Saints, with all that in every place call upon the name of Jeſus Chriſt the Lord.</hi> Again, <hi>
+                  <g ref="char:V">Ʋ</g>nto the Church of God which is in Corinth, with all the Saints which are in all Achaia.</hi>
+               <note place="margin">Gal. 1.2.</note> Again, <hi>
+                  <g ref="char:V">Ʋ</g>nto the
+<pb n="3" facs="tcp:49975:6"/>Church of Galatia;</hi> And,<note place="margin">Eph. 1.1.</note> 
+               <hi>To the Saints which are at Epheſus, and to the faithfull in Chriſt Jeſus.</hi> And where the Biſhops and other Miniſters of the Church are named the bo<g ref="char:EOLhyphen"/>dy of the faithfull are not forgotten. Thus, <hi>To all the Saints in Chriſt Jeſus which are at Philippi with the Biſhops and Deacons.</hi>
+               <note place="margin">Phil. 1.1. Coloſ. 1.2.</note> A<g ref="char:EOLhyphen"/>gain, <hi>To the Saints and faithfull brethren in Chriſt which are at Coloſſe.</hi> And,<note place="margin">1 Theſ. 1.1. 2 Theſ. 1.1. Jam. 1.1.</note> 
+               <hi>To the Church of the Theſſalonians.</hi> And thus alſo St. <hi>James, To the twelve Tribes ſcattered a<g ref="char:EOLhyphen"/>broad.</hi> Thus St. <hi>Peter,</hi>
+               <note place="margin">1 Pet. 1.1.</note> 
+               <hi>To the ſtrangers ſcattered,</hi> &amp;c. And,<note place="margin">2 Pet. 1.1.</note> 
+               <hi>To them that have ob<g ref="char:EOLhyphen"/>tained like pretious faith with us.</hi> And St. <hi>John</hi> (as a learned man hath obſerved) may well be ſuppoſed to direct that Epiſtle to the Church, or whole body of Chriſtians, which according to our verſion is ſaid to be directed to the <hi>Elect Lady.</hi> St. <hi>Jude</hi> di<g ref="char:EOLhyphen"/>rects his <hi>To them that are ſanctified by God the Father,</hi>
+               <note place="margin">Jude <hi>v.</hi> 1.</note> 
+               <hi>and preſerved in Jeſus Chriſt and called.</hi> St. <hi>Paul</hi> where he gives Laws about the Officers and Government of the Church directs his Epiſtles to the Governours onely as in his Epiſtles to <hi>Timothy</hi> and <hi>Titus;</hi>
+               <pb n="4" facs="tcp:49975:7"/>otherwiſe he directs, as here, to the whole body of Chriſtians.</p>
+            <p n="2">2. I conſider the importance of the ad<g ref="char:EOLhyphen"/>vice, <hi>Prove all things.</hi> The Greek word, which we render <hi>Prove,</hi> ſignifies to examine the truth or goodneſs of a thing; and to diſcern the difference between one thing and another.<note place="margin">Luk. 12.56. &amp; <hi>ch.</hi> 14. <hi>v.</hi> 19. Ro. 2.18. 1 Cor. 3.13.11.27.16.3.</note> It ſignifies to try and examine, and ſometime (as the reſult of ſuch tryall) to approve.</p>
+            <p>It hath in the New Teſtament a particu<g ref="char:EOLhyphen"/>lar reference to matters of Religion:<note place="margin">Ro. 2.18.12.2. Eph. 5.10. Phil. 1.10.</note> Theſe things deſerve examining, and there are about Religion many dangerous errours which want not the vogue and colour of truth.<note place="margin">1 Joh. 4.1.</note> We are required <hi>to try the Spirits,</hi> and warned <hi>not to believe every Spirit.</hi>
+            </p>
+            <p>We are required to examine and try the truth and goodneſs of things, <hi>yea of all things,</hi> and not to take them upon truſt: And this precept is ſubjoined to that,<note place="margin">1 Cor. 14.3, 4, 5.</note> 
+               <hi>De<g ref="char:EOLhyphen"/>ſpiſe not prophecyings; i. e.</hi> the preaching of the Word, as may be collected from the Apoſtle's words elſewhere.</p>
+            <p>St. <hi>Paul</hi> doth frequently put us in mind
+<pb n="5" facs="tcp:49975:7"/>to reverence the Miniſters of Religion and tells us how they are to be eſteemed; He requires us in this Chapter <hi>To eſteem them very highly in love for their works ſake,</hi>
+               <note place="margin">Heb. 13.17 1 Cor. 4.1. 2 Cor. 5.20.</note> (v. 13.) and bids us <hi>not deſpiſe prophecyings,</hi> and yet even to this he adds <hi>Prove all things,</hi> &amp;c. whence I raiſe this Doctrine or Propoſition.</p>
+            <p>That it is the duty of Chriſtian people to examine the grounds of their Religion and Faith, and not to take them upon truſt.</p>
+            <p>For the better ſpeaking to it I ſhall.</p>
+            <list>
+               <item>Firſt, ſhew how this Propoſition is to be underſtood.</item>
+               <item>Secondly, I ſhall prove the Truth of it.</item>
+               <item>Thirdly, I ſhall anſwer the Objections that may be brought againſt it.</item>
+               <item>Fourthly, I ſhall make ſome uſe and ap<g ref="char:EOLhyphen"/>plication of the whole.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> I ſhall ſhew how this Propoſition is to be underſtood: And that I ſhall doe in the following particulars.</p>
+            <p>1. What I plead for is a judgment of <hi>diſcretion</hi> and not of <hi>juriſdiction</hi> and <hi>direc<g ref="char:EOLhyphen"/>tion,</hi> which belongs to our Superiors. 'Tis
+<pb n="6" facs="tcp:49975:8"/>here as in the Laws of a Kingdom. The people are obliged to know and keep them. It is the duty and the intereſt of every man to know ſo much of them as concerns his life and property, and the diſcharging his duty to his Prince and Countrey. But then the power of making theſe Laws lies in his Prince or Governors; and the learned in the Law are onely fit to direct and guide men in the matters of doubt and queſtion. And ſo it is in Religion. It does not belong to every private man to be a preacher and interpreter of Holy Writ, much leſs hath he any thing to doe to make Laws for other men. But the private man hath a ſoul to ſave, and in order thereunto is bound to inform himſelf in matters of faith,<note place="margin">Ro. 14.1.</note> and thoſe things which tend to the regulating his life and converſation. We do not receive the people as judges of Con<g ref="char:EOLhyphen"/>troverſies, and doubtfull Diſputations; yet think them concerned in Religion in the mean time. For matters of diſpute and queſtion the Prieſts lips are to preſerve know<g ref="char:EOLhyphen"/>ledge. Here it becomes private men to be
+<pb n="7" facs="tcp:49975:8"/>modeſt, and to preſerve a great reverence for their ſpiritual guides. But there is a great deal of difference between asking the way, when we are at a ſtand, and pulling out our eyes and leaving our ſelves wholly to be led by another. We may uſe our own eyes and our guides too.</p>
+            <p>2. It is likewiſe a judgment of <hi>private</hi> diſcretion which I plead for. It is not fit that a private man ſhould judge for himſelf and his brother too. His Conſcience is not to be the common ſtandard and meaſure of other mens.<note place="margin">Ro. 14.5.</note> 
+               <hi>Let every man be fully per<g ref="char:EOLhyphen"/>ſwaded in his own mind.</hi> Every man ought to have this liberty to himſelf and to be content therewith, and not to cenſure his brother.</p>
+            <p>3. The practice of private men muſt (notwithſtanding this liberty) be governed by the laws of their juſt Superiors. And nothing can excuſe them from an active obedience but where their Governors com<g ref="char:EOLhyphen"/>mand what God hath forbid, or forbid what he hath commanded.</p>
+            <p>And this determination of our practice
+<pb n="8" facs="tcp:49975:9"/>(eſpecially in matters of order and diſci<g ref="char:EOLhyphen"/>pline, of which I would be chiefly under<g ref="char:EOLhyphen"/>ſtood) is very conſiſtent with that judgment of diſcretion which I am now pleading for. Indeed if the thing commanded be evil I muſt obey God rather than man; but if it be not, I ſin againſt God when I diſobey my Superiors. A private man is not judge of what is convenient, moſt decent and orderly, but ought to judge between good and evil, lawfull and unlawfull, true and falſe. Our Doctrine does not give men a liberty to doe what they liſt when it per<g ref="char:EOLhyphen"/>mits them a judgment of diſcretion; we do not pull out the peoples eyes, nor yet allow them to break hedges and throw open encloſures and ramble whereever they liſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> I ſhall prove the truth of this Propoſition and ſhew that men are not to take their Religion upon truſt; That they ought to examine their Religion; To try the Doc<g ref="char:EOLhyphen"/>trines which they are taught whether true or falſe, revealed by God or not: And alſo
+<pb n="9" facs="tcp:49975:9"/>to conſider whether what is enjoined them be lawfull or not. And to this purpoſe I deſire you to conſider,</p>
+            <p n="1">1. That the Scripture teacheth us this Doctrine. We are here commanded to <hi>prove all things;</hi> And our Saviour bids his followers <hi>take heed that no man deceive them.</hi>
+               <note place="margin">Matt. 24.4. <hi>c.</hi> 23.10. 1 Pet. 5.</note> 
+               <hi>Chriſt</hi> allows no man a tyranny over the Conſciences of men, nor would St. <hi>Peter</hi> have it uſurped, nor did the <hi>Apoſtles</hi> them<g ref="char:EOLhyphen"/>ſelves practice it. St. <hi>Paul</hi> declares himſelf <hi>not to be a Lord over their faith but an helper of their joy.</hi>
+               <note place="margin">2 Cor. 1.24. Heb. 13.20. 1 Cor. 11.1.</note> 
+               <hi>Chriſt</hi> is our <hi>Maſter</hi> and <hi>great Shepherd.</hi> His Miniſters are but <hi>Stewards</hi> and Embaſſadors, and are no farther imi<g ref="char:EOLhyphen"/>table than they follow Chriſt.</p>
+            <p>Our Saviour calls upon his followers to <hi>beware of the doctrine of the Phariſees and Sadducees,</hi>
+               <note place="margin">Matt. 16. Joh. 5.39. 1 Joh. 4.1. Gal. 1.</note> and to <hi>ſearch the Scriptures.</hi> And we are required <hi>to try the Spirits,</hi> and not to believe an Apoſtle or an Angel that ſhould preach any other Goſpel.</p>
+            <p>God gave his law for our direction: And we are aſſured that the Scripture is ſufficient to <hi>render the man of God wiſe unto
+<pb n="10" facs="tcp:49975:10"/>ſalvation through faith in Chriſt.</hi>
+               <note place="margin">Deut 4. Pſal. 1. 2 Tim. 3. Luke 16. Act 17.11.</note> And thoſe men are commended who ſearched the Scriptures and examined the Doctrine of the primitive Preachers by them.</p>
+            <p>
+               <hi>If the blind lead the blind</hi> (ſays Chriſt) <hi>both ſhall fall into the ditch.</hi>
+               <note place="margin">Mat. 15.14</note> Men will not be excuſed becauſe they have been miſled by their guides, and believed as their Church believed.<note place="margin">Ezek. 3.17, 18.</note> 
+               <hi>Ezekiel</hi> tells us that where the people are not warned they ſhall dye in their iniquity. Religion is every man's concernment, and every man is obliged to take care of his Soul, and not blindly to give himſelf up to him that pretends to be an infallible guide.</p>
+            <p>
+               <hi>Be ready always</hi> (ſays St. <hi>Peter</hi>) <hi>to give an anſwer to every man that asketh you a reaſon of the hope that is in you.</hi>
+               <note place="margin">1 Pet. 3 15.</note> We muſt then judge of the grounds of our Faith and not take it upon truſt.</p>
+            <p n="2">2. I ſhall repreſent to you (for the better confirming my Propoſition) the juſt Ex<g ref="char:EOLhyphen"/>ceptions againſt the contrary belief; <hi>viz.</hi> That the people are bound to lay aſide their own diſcretion and intirely to give them<g ref="char:EOLhyphen"/>ſelves
+<pb n="11" facs="tcp:49975:10"/>up (without examining) to be led as their guides pleaſe. I ſhall ſhew the dan<g ref="char:EOLhyphen"/>gerous conſequences, the inconſiſtency and vanity, the impiety and unreaſonableneſs of this principle; and that in the following particulars.</p>
+            <p n="1">[1.] This principle is of the moſt dange<g ref="char:EOLhyphen"/>rous conſequence.</p>
+            <p>It would juſtifie the Idolatry of the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> which was at any time introduced upon them by their H. Prieſts or falſe Pro<g ref="char:EOLhyphen"/>phets or evil Kings. We reade of their ſa<g ref="char:EOLhyphen"/>crificing in high places, their worſhip of the golden Calf, and the Calves of <hi>Dan</hi> and <hi>Bethel,</hi> of their brazen Serpent and their falſe Gods. It was not a juſt excuſe for them that the golden Calf was made by <hi>Aaron:</hi>
+               <note place="margin">2 King. 10.</note> They were not without blame for offering upon that Altar, which reſembled that which was at <hi>Damaſcus,</hi> becauſe <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> their H. Prieſt ſet it up, and <hi>Ahaz</hi> their King commanded the uſe of it. But we know that God was angry with them when they followed their blind guides which he would not have been had they done well in it.</p>
+            <pb n="12" facs="tcp:49975:11"/>
+            <p>This principle would have juſtified the <hi>Jews</hi> in rejecting our Saviour. For who could blame them for doing that which their H. Prieſt and Sanhedrim, their Prieſts and Elders had done before? It is true he wrought many Miracles: But to this they might reply, that their Church did not be<g ref="char:EOLhyphen"/>lieve them effected by the power of God. Indeed <hi>Jeſus</hi> appeals often to the Scripture; but, according to this principle, to this they might have pleaded that it was not for private men to underſtand Scripture, and that their Church did underſtand it otherwiſe. They might have pleaded more<g ref="char:EOLhyphen"/>over that the interpreting of Scripture did not belong to private men as they were, and that they were to be governed by Tra<g ref="char:EOLhyphen"/>dition or the Oral Law, and not by the written one onely; That they had among them an H. Prieſt and Sanhedrim, Scribes or men learned in the Law and Traditions, which latter they received with equal reve<g ref="char:EOLhyphen"/>rence with the Written Word.<note place="margin">Joh. 7.48.</note> 
+               <hi>Have any of the Rulers and the Phariſees believed on him?</hi> ſay they. They were ſo far from it
+<pb n="13" facs="tcp:49975:11"/>that they agreed that he who confeſſed him to be the <hi>Chriſt</hi> ſhould be put out of the Synagogue.<note place="margin">Joh. 9.</note> Would ſuch pretences, think ye, have ſerved the turn of the <hi>Jews?</hi> By no means. They ought to have read the Scriptures, to which <hi>Jeſus</hi> appealed, to have compared events with prophecies. This our Lord puts them upon,<note place="margin">Joh. 5.39.45, 46, 47. Act. 17.11.</note> and it was at once their duty and intereſt to have done it. They are commended who took this courſe.</p>
+            <p>This principle might afterwards have juſtified the <hi>Jews</hi> in their rejecting the Chriſtian doctrine and the Apoſtles and firſt Preachers thereof. The <hi>Jews</hi> might have pleaded againſt the Apoſtles many things, <hi>e. g.</hi> The undoubted antiquity of the Jewiſh Church, and novelty of the Chriſtian doc<g ref="char:EOLhyphen"/>trine: The neceſſity of giving themſelves up to the conduct of their Prieſts, whoſe lips were to preſerve knowledge, and they were to ſeek the Law at their mouth: They might have pleaded that they were in the ſafeſt way to ſalvation: for, though they denied the poſſibility of it to the Chriſti<g ref="char:EOLhyphen"/>ans,
+<pb n="14" facs="tcp:49975:12"/>yet, <hi>Jeſus</hi> himſelf owned that ſalvation was of the <hi>Jews.</hi> They might have urged the 17th of <hi>Deuteronomy</hi> to prove the infal<g ref="char:EOLhyphen"/>libility of their Church with a far greater ſhew than ever <hi>Thou art Peter,</hi> &amp;c. was produced to prove that of the Biſhop of <hi>Rome.</hi> It being expreſly required (<hi>Deut.</hi> 17.8, 10.) That in matters of Controverſie men ſhould abide by the Sentence of the law pronounced by the Prieſt, or Judge of that time; whereas no ſuch thing is ſaid of the Biſhop of <hi>Rome</hi> in the New Teſtament.</p>
+            <p>This principle would effectually have hin<g ref="char:EOLhyphen"/>dred the propagation of the Chriſtian Reli<g ref="char:EOLhyphen"/>gion among the <hi>Gentil</hi> or <hi>Pagan</hi> part of the world. They had their Prieſts and H. Prieſts too as well as the <hi>Jews,</hi> they had antiquity to plead, and great ſucceſs and proſperity under their way of worſhip. <hi>Se<g ref="char:EOLhyphen"/>quendi ſunt nobis parentes qui feliciter ſequuti ſunt ſuos,</hi> ſaith <hi>Symmachus.</hi> If this principle might be allowed there could be no way left to ſpread the faith among them.</p>
+            <p>This one principle where ever admitted would have put a perpetual bar to the con<g ref="char:EOLhyphen"/>verſion
+<pb n="15" facs="tcp:49975:12"/>of <hi>Jews</hi> and <hi>Infidels</hi> to the Chriſtian Faith. For what method can we take to bring them over if we cannot convince them that we are in the <hi>right</hi> and they in the <hi>wrong?</hi> And how can they be made ſenſi<g ref="char:EOLhyphen"/>ble of this if we allow them not the liberty of judging? And ſure if they be fit to judge of the whole matter they are not unfit to judge of the ſeverals. If we allow them the liberty to judge of Chriſtianity before they embrace it, it is not reaſonable to de<g ref="char:EOLhyphen"/>ny them a judgment of diſcretion when they are received into the Chriſtian Faith.</p>
+            <p>This principle admitted would have ex<g ref="char:EOLhyphen"/>cuſed the people that ſhould have continu<g ref="char:EOLhyphen"/>ed in <hi>Arianiſm,</hi> when the Biſhops and Prieſts and generally the whole Church was infec<g ref="char:EOLhyphen"/>ted with it. The <hi>Arians</hi> once filled the Church, called themſelves Orthodox and Catholicks and others Hereticks. Accord<g ref="char:EOLhyphen"/>ing to this principle the people ought to have continued thus always; for they were to be governed by their Biſhops and Prieſts; And why ſhould they think themſelves ob<g ref="char:EOLhyphen"/>liged to hearken to what you had to offer
+<pb n="16" facs="tcp:49975:13"/>from Scripture, or Reaſon, or the Council of <hi>Nice,</hi> when it was againſt the ſenſe of the preſent Church?</p>
+            <p n="2">[2.] This principle, not being ſelf-evident, is inconſiſtent, and manifeſtly deſtroys it ſelf. For 'tis liable to be examined, and ought to be ſtrictly examined becauſe very much depends upon it. If it may be exa<g ref="char:EOLhyphen"/>mined by the people they who maintain it have loſt their queſtion. For then the people are not obliged to deſpoil themſelves of their faculties and wiſer powers but may judge in matters of Religion, this being of the moſt principal concernment of all. This ought not to be taken upon truſt be<g ref="char:EOLhyphen"/>cauſe their ſalvation depends upon it. If this chance to be falſe they may blindly give themſelves up to a guide who may lead them to the regions of darkneſs.</p>
+            <p n="3">[3.] Suppoſing there were any truth in this principle, yet it would be of no uſe to us unleſs we were alſo directed to the Church and guides to whom we are to ſur<g ref="char:EOLhyphen"/>render our ſelves. Suppoſing we were bound to believe as the Church believes and blind<g ref="char:EOLhyphen"/>ly
+<pb n="17" facs="tcp:49975:13"/>to follow our Prieſts, yet if we do not know what Church is to be thus truſted, and what Prieſts thus to be confided in, and under what profeſſion we are to doe it we ſhall be at as great a loſs as ever. For it cannot be ſuppoſed that it is the duty of all people, in every Countrey and under every Profeſſion to doe this. For <hi>Jews, Chriſtians</hi> and <hi>Infidels</hi> cannot be all under an equal obligation. It is then to be con<g ref="char:EOLhyphen"/>ſidered to what Church this belongs. If the Church of <hi>Rome</hi> put in ſhe muſt ſhew a better plea than any other that may pretend, and a better than any ſhe hath produced as yet. For Antiquity, Succeſſion, Miracles, Amplitude, Proſperity, Succeſs, <hi>&amp;c.</hi> theſe are things that may be pleaded in behalf of <hi>Jews, Pagans</hi> and <hi>Infidels.</hi> They will at leaſt ſeverally ſhare in theſe pretences. Let the pretence be what it will, before I can admit the pretender I muſt judge his title good, and that will deſtroy the principle.</p>
+            <p n="4">[4.] This principle invades the preroga<g ref="char:EOLhyphen"/>tive of God, and uſurps upon his peculiar. He onely hath a direct dominion over the
+<pb n="18" facs="tcp:49975:14"/>Conſciences of men.<note place="margin">Jam. 4.12.</note> 
+               <hi>He is the one lawgiver who is able to ſave and to deſtroy.</hi> We are obliged to believe a verity becauſe he ſaith it. There muſt be a revelation before a divine faith. Men have not power to make articles of faith, or to require our aſſent upon preſumption of ſuch power.</p>
+            <p n="5">[5.] Many things in Religion are ſo plain that a man of ordinary capacity and com<g ref="char:EOLhyphen"/>petently inſtructed in the principles of Reli<g ref="char:EOLhyphen"/>gion is able to judge of them: But this principle deſtroys that power, and ſuppo<g ref="char:EOLhyphen"/>ſeth men unable to judge in the plaineſt caſes whatſoever.</p>
+            <p>From the Writers of the <hi>Romiſh</hi> Church we hear much of the obſcurity of the Scri<g ref="char:EOLhyphen"/>ptures. I grant that there are ſome things in them hard to be underſtood, and every man therefore is not fit to interpret them. God hath appointed an order of men to doe this.<note place="margin">Eph. 4.11.</note> He hath given ſome <hi>Apoſtles,</hi> ſome <hi>Prophets, Evangeliſts, Paſtors</hi> and <hi>Tea<g ref="char:EOLhyphen"/>chers,</hi> not to hoodwink the people and lead them out of the way, but for the <hi>perfecting of the Saints, and for the edifying of the body
+<pb n="19" facs="tcp:49975:14"/>of Chriſt,</hi> and preſerving the people from the <hi>ſleight of men and cunning craftineſs where<g ref="char:EOLhyphen"/>by they lie in wait to deceive.</hi> This is the great purpoſe of the inſtitution. 'Tis for the inſtruction and building up of the faith<g ref="char:EOLhyphen"/>full.</p>
+            <p>But our way is generally plain, and there we need no guide if we uſe our eyes, and mind our rule. Matters of <hi>faith</hi> as well as <hi>manners</hi> are plainly revealed.</p>
+            <p>Such are all the Articles of our moſt ancient Creed: They are ſo plainly taught in the H. Scriptures that he who runs may reade them there.</p>
+            <p>That we love God and our Neighbour are the weightier things of. Religion, and eaſie to be underſtood: Juſtice and Mercy and Peaceableneſs are plain. That we obey the King, be charitable to the poor, juſt to all men, and doe as we would be done by: That we uſe no craft or equivocations, but be ſincere in all our actions and profeſſions, are things not hard to be underſtood.</p>
+            <p>But if men ſhould undertake to be guides to the people, and teach them rebellion, in<g ref="char:EOLhyphen"/>juſtice,
+<pb n="20" facs="tcp:49975:15"/>cruelty, diſſembling and equivoca<g ref="char:EOLhyphen"/>tion; to kill their King and deſtroy their enemies; a man of mean underſtanding may diſcern that theſe are not the gifts which <hi>Chriſt</hi> gave unto men, but that they are a company of falſe people, or rather ra<g ref="char:EOLhyphen"/>venous wolves. To judge of theſe things no man needs a guide who hath eyes in his head.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> I ſhall now anſwer the Objections which may be brought againſt what I have ſaid.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>1</label>'Tis pretended that this Doctrine will in<g ref="char:EOLhyphen"/>troduce Hereſies and Schiſms into the Church. And we are upbraided with Schiſms and Hereſies as the effect of our Doctrine. On the other hand that the people, who confide in their Paſtors, and believe as the Church believes, are kept in unity and at peace. To this I anſwer.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 1. 'Tis a fond thing to imagine that there ſhall be no Hereſies or Schiſms, and that we have found a way to prevent them. This is like the boaſt of a Mountebank who pretends to a <hi>Panacea</hi> or univerſal remedy
+<pb n="21" facs="tcp:49975:15"/>for all diſeaſes, who gains ſmall credit with wiſe men. I grant that Hereſies and Schiſms are great evils, and that we ought to prevent them what we can. And much might be done towards it if the Miniſters of Religion could as eaſily ſecure the prac<g ref="char:EOLhyphen"/>tice as inform the minds of men. But <hi>Scandals</hi> or <hi>Offences</hi> are great evils as well as <hi>Hereſies:</hi>
+               <note place="margin">Matt. 18.7.</note> And yet <hi>Chriſt</hi> tells us that <hi>it muſt needs be that offences come;</hi> And St. <hi>Paul</hi> tells us as plainly,<note place="margin">1 Cor. 11.19.</note> 
+               <hi>There muſt be alſo hereſies among you, that they which are approved may be made manifeſt among you.</hi> God hath fore<g ref="char:EOLhyphen"/>told that there ſhould come a <hi>falling away;</hi>
+               <note place="margin">2 Theſſ. 2.</note> and that ſome ſhould be under <hi>ſtrong delu<g ref="char:EOLhyphen"/>ſions and believe a lye.</hi> It is a vain thing to pretend a remedy againſt that evil againſt which God himſelf hath provided none.</p>
+            <p n="2">2. To believe without examining, as the preſent Church believes, is ſo far from pre<g ref="char:EOLhyphen"/>venting Hereſies that it ſecures men under them without any hope of emerging. A blind obedience may as well detain men in Hereſie as keep them in the Faith. This principle ſhuts men up, and is ſo far from
+<pb n="22" facs="tcp:49975:16"/>preventing the diſeaſe, that whenever men are overtaken with it all that it does is that it hinders all remedy.</p>
+            <p n="3">3. That the principle which I have ex<g ref="char:EOLhyphen"/>poſed, being not ſelf-evident but conteſta<g ref="char:EOLhyphen"/>ble, may well be ſuppoſed to divide men about the main queſtion. It ought to be examined becauſe it does not carry its Evi<g ref="char:EOLhyphen"/>dence along with it. And then who can tell but that the principle which is deviſed to unite may chance to divide men when they go about to examine it?</p>
+            <p n="4">4. We will ſuppoſe this principle ſelf<g ref="char:EOLhyphen"/>evident, and that it hath been anciently and univerſally received (which is by no means to be granted) yet we know that it was not effectual. The <hi>Gnoſticks, Arians</hi> and other Hereticks did infeſt the Primitive Church. This principle then was received in the Church from the beginning or it was not: If it were not, it is then a new Doc<g ref="char:EOLhyphen"/>trine, and we are not obliged to receive it now. If it were received in the ancient Church, I would then know how Hereſies and Schiſms got into the Church? Was
+<pb n="23" facs="tcp:49975:16"/>this principle then ineffectual and ſhall it not now fail to be effectual?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>2</label> This Doctrine which I maintain, it may be objected, will deſtroy that reverence which is due from the people to their Pa<g ref="char:EOLhyphen"/>ſtors, and make them their Judges.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label>
+               <note place="margin">1 Theſſ. 5.13. He. 13.17. 1 Cor. 9.11. 2 Tim. 5.17. Gal. 6.6. Matt. 104.</note>1. There is a great honour due from the People to their Paſtors. This cannot be denied. They are bound to pay it by all inſtances of regard and kindneſs. <hi>He that receiveth a Prophet in the name of a Prophet ſhall receive a Prophet's reward.</hi>
+            </p>
+            <p n="2">
+               <note place="margin">1 Tim. 5.17.</note>2. This honour hath its bounds and meaſures. It is due for the ſake of their Maſter and their Work, and in proportion to their faithfulneſs and labours. <hi>Let the Elders that rule well be counted worthy of double honour, eſpecially they who labour in the word and doctrine.</hi> But we need not put out our eyes that they may lead us whither they pleaſe; nor are bound to pay that ho<g ref="char:EOLhyphen"/>nour to the Servants and Stewards which is onely due to their Lord and Maſter.</p>
+            <p n="3">3. That we may give them all due ho<g ref="char:EOLhyphen"/>nour though we do not think them infal<g ref="char:EOLhyphen"/>lible.
+<pb n="24" facs="tcp:49975:17"/>This the Apoſtle ſuppoſeth in my Text. For though he had required this eſteem from the people towards their Pa<g ref="char:EOLhyphen"/>ſtors (<hi>v.</hi> 13.) yet he commands them to <hi>prove all things.</hi> We are obliged to honour our Judges and Civil Magiſtrates, and may truly doe it though we do not believe eve<g ref="char:EOLhyphen"/>ry ſentence and determination of theirs to be according to exact truth and equity.</p>
+            <p>For our Judges in civil matters we are obliged to ſit down by their ſentence, when we do not think it juſt; we are to ſuffer wrong and not reſiſt. It does not hence follow that we muſt follow our ſpi<g ref="char:EOLhyphen"/>ritual guides without examining. The Ci<g ref="char:EOLhyphen"/>vil Magiſtrate determines onely our out<g ref="char:EOLhyphen"/>ward actions, or diſpoſeth of ſome of our goods and properties (which we have power to alienate) but he does not pre<g ref="char:EOLhyphen"/>ſcribe upon our inward ſenſe, nor touch upon our Conſcience as our ſpiritual guides do in their commands. And though we do not appeal from the Civil Magiſtrate, it cannot hence be inferred that we think him infallible.</p>
+            <pb n="25" facs="tcp:49975:17"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>3</label> But this Doctrine, ſome will ſay, will leave us at great uncertainty, and our Sal<g ref="char:EOLhyphen"/>vation will be very contingent and hazard<g ref="char:EOLhyphen"/>ous unleſs we be provided of an Infallible guide, without whom we cannot be ſafe. And that God hath made a ſlender provi<g ref="char:EOLhyphen"/>ſion for our Souls if we be not thus provi<g ref="char:EOLhyphen"/>ded for.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 1. We are not fit judges of what God ought to doe, but ought to thank him for what he hath done. We diſcourſe at random and very inconſequently when we under<g ref="char:EOLhyphen"/>take to ſay what is fit for God to doe, and then infer he hath done what we judged fit for him to doe. At this rate we may as well infer that God hath eſtabliſhed a <hi>Sovereign <g ref="char:V">Ʋ</g>mpire</hi> to decide all civil controverſies about <hi>meum</hi> and <hi>tuum.</hi> For ſince theſe things di<g ref="char:EOLhyphen"/>vide the world, and are occaſions of feuds and wars, it may be as fairly ſaid that this is for the intereſt of the world as an infallible Judge is for that of the Church. Shall we then conclude that God hath appointed ſuch an one, or elſe he had been wanting to his Creatures? 'Tis for the intereſt of the Church that the Members of it ſhould be free from
+<pb n="26" facs="tcp:49975:18"/>poſſibility of ſinning as well as of erring, and yet we know God hath made no ſuch provi<g ref="char:EOLhyphen"/>ſion. An infallible <hi>guide</hi> of <hi>manners</hi> is as neceſſary as ſuch a <hi>guide</hi> of <hi>controverſies,</hi> and yet we cannot ſay there is any ſuch. And then we have no cauſe to make ſuch a concluſion.</p>
+            <p n="2">2. That ſuppoſing it neceſſary there ſhould be an Infallible Judge, yet this would doe us no good unleſs we could be infallibly ſure of this Infallible Judge. And there are two things in this caſe we muſt be infallibly certain of, <hi>viz.</hi> [1.] That there is ſome In<g ref="char:EOLhyphen"/>fallible Judge: [2.] Who that Judge is. Both theſe are neceſſary. We muſt be ſure of a treaſure firſt, and then know where it lies before we can have cauſe to boaſt of our wealth.</p>
+            <p n="3">3. That ſuppoſing the preſent Church of <hi>Rome</hi> were the infallible Church, yet the more ſimple ſort of people would not be, for all this, at any greater certainty. For they would have another task upon them, <hi>viz.</hi> to inquire what is the faith and what is the worſhip of this Church. And how will they doe to find that out? muſt they be ru<g ref="char:EOLhyphen"/>led by what the ignorant and common
+<pb n="27" facs="tcp:49975:18"/>people doe? Perhaps the Church does not allow of all their practices. Or ſhall they be governed by their Pariſh Prieſt? But that Prieſt for what they know may err, though a Pope or Council cannot. Shall they be go<g ref="char:EOLhyphen"/>verned by common conſent? But there are differing cuſtoms and uſages in <hi>France</hi> and <hi>Spain</hi> and other Countries, to which of theſe ſhall they adhere? Muſt they be taught by a Pope <hi>ex cathedra?</hi> But how ſhall they know if this be a true Pope, or whether he ſpeak <hi>ex cathedra</hi> or not? Or will you ſend theſe people to the Council of <hi>Trent?</hi> Alas, 'tis a thing well known that the words of that Councils Decrees are ſometime general and ambiguous and not fit to direct plain and ſimple people. And yet Pope <hi>Pius</hi> IV. commanded that without his authority no man ſhould explain them. That no man ſhould preſume <hi>
+                  <g ref="char:V">Ʋ</g>llos commentarios, gloſſas, annotationes, Scholia, ullúmve omnino interpre<g ref="char:EOLhyphen"/>tationis genus ſuper ipſius Concilii decretis quocunque modo edere.</hi> That is, <hi>By any way to publiſh any Commentaries, Gloſſes, Annota<g ref="char:EOLhyphen"/>tions, Scholia, or any ſort of interpretation whatſoever upon the Decrees of that Council.</hi>
+               <pb n="28" facs="tcp:49975:19"/>And this under the pain of Excommunicati<g ref="char:EOLhyphen"/>on, as appears by his Bull for the confirma<g ref="char:EOLhyphen"/>tion of that Council. For inſtance: That Council tells us that Images are to be had in Churches, and to have due honour given them. What this due honour is which they allow how ſhall the ſimple man know? Whether it be negative or poſitive honour? Whether he give too much or too little? Whether he divide it aright between the Image and the Prototype? How can he know how to govern himſelf in this affair? Indeed the Council ſays afterwards that <hi>all Superſtition muſt be avoided.</hi> But what the Superſtition is which the Council diſallows it does not define. And therefore the plain and ſimple man will be at a loſs how to govern himſelf.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> I ſhall now make ſome application of what hath been ſaid.</p>
+            <p n="1">1. This ſerves for the reproof of thoſe who would deprive the people of that li<g ref="char:EOLhyphen"/>berty which God hath given them. This is to deſpoil them of the great prerogative of their nature, and degrade them into a lower
+<pb n="29" facs="tcp:49975:19"/>rank of being, which is the greateſt tyranny imaginable. There is nothing ſo much con<g ref="char:EOLhyphen"/>cerns mankind as Religion and the intereſt of their immortal Souls. We are here put upon trying or proving all things.<note place="margin">1 Joh. 4.1.</note> 
+               <hi>Believe not every ſpirit</hi> (ſays St. <hi>John</hi>) <hi>but try the ſpi<g ref="char:EOLhyphen"/>rits whether they are of God. Chriſt</hi> bids the <hi>Jews ſearch the Scriptures.</hi> Surely then the Scriptures are not to be kept from the peo<g ref="char:EOLhyphen"/>ple: And they muſt be allowed their rule when they are obliged to prove all things. If they are obliged to give a reaſon of their hope they muſt be allowed to examine its grounds.</p>
+            <p n="2">2. This ſerves for the reproof of thoſe a<g ref="char:EOLhyphen"/>mong our ſelves who do not uſe that liberty of examining which is allowed them; who neither know nor will underſtand: That are crafty and diligent in worldly affairs but ſu<g ref="char:EOLhyphen"/>pinely negligent in their trueſt and greateſt intereſt. Too many are wedded to their fac<g ref="char:EOLhyphen"/>tion and fond opinions, and both practice and preſcribe that which they condemn in the Ch. of <hi>Rome.</hi> Did they ingenuouſly exa<g ref="char:EOLhyphen"/>mine things, and ſincerely ſeek the truth, they might eaſily avoid the Errors &amp; Schiſms they are now juſtly charged with.</p>
+            <pb n="30" facs="tcp:49975:20"/>
+            <p n="3">3. Let us then examine the grounds of our faith, eſpecially in the points controver<g ref="char:EOLhyphen"/>ted among us at this time, then will your Communion with the Ch. of <hi>England</hi> not be the reſult of <hi>Chance,</hi> but of <hi>Judgment,</hi> and of choice. I know no mark of a true Church wanting here, and am ſure that many things greatly commend to us her Communion.</p>
+            <p n="1">
+               <hi>Firſt,</hi> This Church does not void the ne<g ref="char:EOLhyphen"/>ceſſity of an holy life. It cancels none of our obligations to God or man; but teacheth the abſolute neceſſity of contrition and re<g ref="char:EOLhyphen"/>pentance, and mortification of our luſts. And does by no means indulge a liberty of living as we liſt.</p>
+            <p n="2">
+               <hi>Secondly,</hi> She fairly propoſeth her Doc<g ref="char:EOLhyphen"/>trines, and does not refuſe to have them examined, nor deprive her Children of the means of doing it by the cleareſt light.</p>
+            <p n="3">
+               <hi>Thirdly,</hi> Nor are her Doctrines fitted to advance a ſecular intereſt or glory. Religion is an holy inſtitution; heavenly in its prin<g ref="char:EOLhyphen"/>ciple and pure in its aim, and diſdains to ſtoop to mean arts for wealth and worldly dignities.</p>
+            <p n="4">
+               <hi>Fourthly,</hi> This Church teacheth nothing that is manifeſtly falſe, nor puts us upon
+<pb n="31" facs="tcp:49975:20"/>any practice which is a direct violation of any divine inſtitution.</p>
+            <p n="5">
+               <hi>Fifthly,</hi> Nor does this Church want the excellent badge of charity, which is indeed the bond of perfectneſs. Religion was de<g ref="char:EOLhyphen"/>ſigned as the greateſt bleſſing to mankind, and the author of the Chriſtian was a great lover of humane race. Its precepts are full of kindneſs and benignity, and commend the higheſt pitch of civility and compaſſion, and the higheſt flights of friendſhip.</p>
+            <p n="6">
+               <hi>Sixthly,</hi> As obedience to Kings and Go<g ref="char:EOLhyphen"/>vernors is a great part of the Chriſtian Reli<g ref="char:EOLhyphen"/>gion, and an ornament to it, and was in an eminent degree practiſed by the firſt and beſt Chriſtians, ſo it is the doctrine of our Church, and hath always been the prac<g ref="char:EOLhyphen"/>tice of the members of it.</p>
+            <p>In a word, we pray for our enemies, and teach men to give both God and <hi>Caeſar</hi> their due. We think it ſafe to worſhip no Image, and are ſure we are right when we pray to God through the mediation of <hi>Jeſus Chriſt.</hi> We know that God hears, but cannot ſay ſo of Saints and Angels. We receive the Sacra<g ref="char:EOLhyphen"/>ment
+<pb n="32" facs="tcp:49975:21"/>in both kinds as given by <hi>Chriſt,</hi> and received by the ancient Church: And do believe the Sacramental bread after conſe<g ref="char:EOLhyphen"/>cration to be what the Apoſtle calls it more than once. For the Doctrine of Concomi<g ref="char:EOLhyphen"/>tance we leave it to them who underſtand it. We pray in a tongue we underſtand. We follow the H. Scriptures, believe the an<g ref="char:EOLhyphen"/>cient Creeds, nor do we reject the firſt gene<g ref="char:EOLhyphen"/>ral Councils. We preſs men to piety, loy<g ref="char:EOLhyphen"/>alty, humility and charity, and earneſtly deſire the ſalvation of mankind. We preſs men to all manner of good works, but place our hope in the mercy of God and merits of his Son. If we live up to our rule we are ſafe; If not, 'tis not the fault of our Reli<g ref="char:EOLhyphen"/>gion, 'tis our own. If we live up to our Re<g ref="char:EOLhyphen"/>ligion we ſhall never be miſerable in this world, and in the next ſhall be unſpeakably happy. <hi>Which God of his mercy grant for the ſake of Jeſus Chriſt, to whom with the Father and H. Ghoſt be all honour and glory now and for ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
